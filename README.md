@@ -1,6 +1,4 @@
 # Census income prediction
-Income prediction based on dataset: http://archive.ics.uci.edu/ml/datasets/Census+Income
-
 The data is known as **[Adult Dataset](https://archive.ics.uci.edu/ml/datasets/adult)** and comes from  from the UCI Machine Learning Repository.
 
 The purpose of the classification model is to predict whether an income exceeds 50k per year or not.
